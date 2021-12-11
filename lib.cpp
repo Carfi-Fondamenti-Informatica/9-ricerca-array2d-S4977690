@@ -7,6 +7,7 @@ bool res (char list[10][20], char name[20], int &i){
     }
     
   }
+  
   return false;
 
 } 
